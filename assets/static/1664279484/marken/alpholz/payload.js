@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/alpholz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/alpholz-holzgarage-mit-flachdach-c-44-iso-alpholz-8294191-1.jpg":"\u002Fassets\u002Fimages\u002Falpholz-holzgarage-mit-flachdach-c-44-iso-alpholz-8294191-1.webp"}}],fetch:{},mutations:void 0});
