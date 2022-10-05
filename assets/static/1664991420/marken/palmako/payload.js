@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/palmako", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/palmako-flachdach-doppelcarport-karl-natur-600-cm-x-512-cm-palmako-2988335-1.jpg":"\u002Fassets\u002Fimages\u002Fpalmako-flachdach-doppelcarport-karl-natur-600-cm-x-512-cm-palmako-2988335-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/palram", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/palram-einzelcarport-atlas-aluminium-mit-bogen-495-cm-x-288-cm-basaltgrau-palram-4476164-1.jpg":"\u002Fassets\u002Fimages\u002Fpalram-einzelcarport-atlas-aluminium-mit-bogen-495-cm-x-288-cm-basaltgrau-palram-4476164-1.webp"}}],fetch:{},mutations:void 0});

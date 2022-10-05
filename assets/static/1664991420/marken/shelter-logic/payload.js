@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/shelter-logic", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/shelterlogic-garage-238m2-gruen-390-cm-x-610-cm-shelter-logic-2607059-1.jpg":"\u002Fassets\u002Fimages\u002Fshelterlogic-garage-238m2-gruen-390-cm-x-610-cm-shelter-logic-2607059-1.webp"}}],fetch:{},mutations:void 0});

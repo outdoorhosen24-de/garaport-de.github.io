@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/sonstige", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/shelterlogic-garage-in-a-box-round-top-183-m2-gruen-610-cm-x-300-cm-x-240-cm-sonstige-3130911-1.jpg":"\u002Fassets\u002Fimages\u002Fshelterlogic-garage-in-a-box-round-top-183-m2-gruen-610-cm-x-300-cm-x-240-cm-sonstige-3130911-1.webp"}}],fetch:{},mutations:void 0});
