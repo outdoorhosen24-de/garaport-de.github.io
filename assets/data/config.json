@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "garaport.de",
+    "hostname": "https://www.garaport.de/",
+    "email": "garaport.desurrealnetworks.io",
+    "organization": "garaport.de",
+    "logoText": "Garaport.de",
+    "title": "Garagen & Carports",
+    "subline": "Der Online Shop f\u00fcr Garagen & Carports",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7899206",
+        "8017634",
+        "2122653",
+        "2114866",
+        "2113207",
+        "3511482"
+    ],
+    "winnerProducts": [
+        "9630989",
+        "3514163",
+        "2113207"
+    ],
+    "featuredCategories": [
+        "Zubeh\u00f6r f\u00fcr Carports",
+        "Garagentorantriebe & Torantriebe",
+        "Carports",
+        "Garagentorantriebe & Torantriebe",
+        "Carports",
+        "Zubeh\u00f6r f\u00fcr Carports"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Garagen & Carports",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Sortiment von Garagen & Carports umfasst eine Vielzahl von Produkten, die f\u00fcr die Aufbewahrung und den Schutz von Fahrzeugen bestimmt sind. Das Angebot reicht von einfachen Carports \u00fcber Garagen mit verschiedenen Ausstattungen bis hin zu komplexen Stellplatzl\u00f6sungen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Garagen & Carports - die beste Auswahl!",
+            "metaDescription": "Willkommen bei Garagen & Carports - Ihrem Shop f\u00fcr hochwertige Garagen und Carports. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Modellen und Gr\u00f6\u00dfen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Garagen & Carports - die perfekte L\u00f6sung f\u00fcr Ihr Auto!",
+                    "text": "Die meisten H\u00e4user in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter sch\u00fctzen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein \u00fcberdachter Parkplatz f\u00fcr ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr n\u00fctzlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter sch\u00fctzen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort f\u00fcr ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports sch\u00fctzen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Garagen & Carports Shop",
+            "metaDescription": "Der offizielle Garagen- & Carports-Shop. Hier findest du alles, was du f\u00fcr die perfekte Garage oder Carport brauchst.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Garagen & Carports Hersteller",
+            "metaDescription": "Garagen & Carports - Find the perfect manufacturer for your needs. We have a wide selection of manufacturers to choose from.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Garagen & Carports",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE f\u00fcr Ihre Garage oder Carport. W\u00e4hlen Sie aus unserem Sortiment und finden Sie die perfekte L\u00f6sung f\u00fcr Ihr Zuhause.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Garagen & Carports",
+        "defaultMetaDescription": "$KATEGORIE Garagen & Carports - Finde die perfekte Garage f\u00fcr Dein Auto. W\u00e4hle aus unterschiedlichen Gr\u00f6\u00dfen, Ausf\u00fchrungen und Designs.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Garagen und Carports - hochwertige Qualit\u00e4t zum fairen Preis. Jetzt online konfigurieren und bestellen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Garagen & Carports",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Garagen & Carports Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Garagen & Carports Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
