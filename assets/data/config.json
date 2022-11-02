@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "garaport.de",
     "hostname": "https://www.garaport.de/",
     "email": "garaport.desurrealnetworks.io",
     "organization": "garaport.de",
     "logoText": "Garaport.de",
     "title": "Garagen & Carports",
-    "subline": "Der Online Shop f\u00fcr Garagen & Carports",
+    "subline": "Der Online Shop für Garagen & Carports",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "2113207"
     ],
     "featuredCategories": [
-        "Zubeh\u00f6r f\u00fcr Carports",
+        "Zubehör für Carports",
         "Garagentorantriebe & Torantriebe",
         "Carports",
         "Garagentorantriebe & Torantriebe",
         "Carports",
-        "Zubeh\u00f6r f\u00fcr Carports"
+        "Zubehör für Carports"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,21 +46,21 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Garagen & Carports",
-        "featureText": "Das Sortiment von Garagen & Carports umfasst eine Vielzahl von Produkten, die f\u00fcr die Aufbewahrung und den Schutz von Fahrzeugen bestimmt sind. Das Angebot reicht von einfachen Carports \u00fcber Garagen mit verschiedenen Ausstattungen bis hin zu komplexen Stellplatzl\u00f6sungen.",
+        "featureText": "Das Sortiment von Garagen & Carports umfasst eine Vielzahl von Produkten, die für die Aufbewahrung und den Schutz von Fahrzeugen bestimmt sind. Das Angebot reicht von einfachen Carports über Garagen mit verschiedenen Ausstattungen bis hin zu komplexen Stellplatzlösungen.",
         "index": {
             "title": "Garagen & Carports - die beste Auswahl!",
-            "metaDescription": "Willkommen bei Garagen & Carports - Ihrem Shop f\u00fcr hochwertige Garagen und Carports. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Modellen und Gr\u00f6\u00dfen.",
+            "metaDescription": "Willkommen bei Garagen & Carports - Ihrem Shop für hochwertige Garagen und Carports. Wir bieten Ihnen eine große Auswahl an verschiedenen Modellen und Größen.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Garagen & Carports - die perfekte L\u00f6sung f\u00fcr Ihr Auto!",
-                    "text": "Die meisten H\u00e4user in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter sch\u00fctzen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein \u00fcberdachter Parkplatz f\u00fcr ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr n\u00fctzlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter sch\u00fctzen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort f\u00fcr ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports sch\u00fctzen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
+                    "title": "Garagen & Carports - die perfekte Lösung für Ihr Auto!",
+                    "text": "Die meisten Häuser in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter schützen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein überdachter Parkplatz für ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr nützlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter schützen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort für ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports schützen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
                 }
             ]
         },
         "shop": {
             "title": "Garagen & Carports Shop",
-            "metaDescription": "Der offizielle Garagen- & Carports-Shop. Hier findest du alles, was du f\u00fcr die perfekte Garage oder Carport brauchst.",
+            "metaDescription": "Der offizielle Garagen- & Carports-Shop. Hier findest du alles, was du für die perfekte Garage oder Carport brauchst.",
             "robots": "index, follow"
         },
         "hersteller": {
@@ -71,15 +71,15 @@
     },
     "productSeo": {
         "defaultTitle": "$PRODUKT Garagen & Carports",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE f\u00fcr Ihre Garage oder Carport. W\u00e4hlen Sie aus unserem Sortiment und finden Sie die perfekte L\u00f6sung f\u00fcr Ihr Zuhause.",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE für Ihre Garage oder Carport. Wählen Sie aus unserem Sortiment und finden Sie die perfekte Lösung für Ihr Zuhause.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
@@ -87,7 +87,7 @@
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE: Garagen & Carports",
-        "defaultMetaDescription": "$KATEGORIE Garagen & Carports - Finde die perfekte Garage f\u00fcr Dein Auto. W\u00e4hle aus unterschiedlichen Gr\u00f6\u00dfen, Ausf\u00fchrungen und Designs.",
+        "defaultMetaDescription": "$KATEGORIE Garagen & Carports - Finde die perfekte Garage für Dein Auto. Wähle aus unterschiedlichen Größen, Ausführungen und Designs.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Garagen und Carports - hochwertige Qualit\u00e4t zum fairen Preis. Jetzt online konfigurieren und bestellen!",
+        "defaultMetaDescription": "$HERSTELLER Garagen und Carports - hochwertige Qualität zum fairen Preis. Jetzt online konfigurieren und bestellen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
