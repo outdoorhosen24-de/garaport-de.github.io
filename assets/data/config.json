@@ -51,12 +51,15 @@
             "title": "Garagen & Carports - die beste Auswahl!",
             "metaDescription": "Willkommen bei Garagen & Carports - Ihrem Shop für hochwertige Garagen und Carports. Wir bieten Ihnen eine große Auswahl an verschiedenen Modellen und Größen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Garagen & Carports - die perfekte Lösung für Ihr Auto!",
-                    "text": "Die meisten Häuser in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter schützen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein überdachter Parkplatz für ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr nützlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter schützen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort für ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports schützen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Garagen & Carports - die perfekte Lösung für Ihr Auto!",
+                        "text": "Die meisten Häuser in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter schützen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein überdachter Parkplatz für ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr nützlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter schützen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort für ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports schützen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Garagen & Carports Shop",
