@@ -37,7 +37,12 @@
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
-    "checklist": "Material,Komfort,Funktion,Haltbarkeit",
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Garagen & Carports",
@@ -46,12 +51,13 @@
             "title": "Garagen & Carports - die beste Auswahl!",
             "metaDescription": "Garagen und Carports gibt es in vielen Ausführungen und Größen. Unsere Experten haben für Sie die beste Auswahl von Garagen und Carports aufgestellt.",
             "robots": "index, follow",
-            "texts": [
-                {
+            "seotext": {
+                "publish": true,
+                "content": [{
                     "title": "Garagen & Carports - die perfekte Lösung für Ihr Auto!",
                     "text": "Die meisten Häuser in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter schützen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein überdachter Parkplatz für ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr nützlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter schützen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort für ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports schützen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
-                }
-            ]
+                }]
+            }
         },
         "shop": {
             "title": "Garagen und Carports vergünstigt kaufen | Shop",
@@ -68,63 +74,55 @@
         "defaultTitle": "$PRODUKT | garaport.de",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER online kaufen vom Experten garaport.de. Finden Sie weitere Produkte aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE: Garagen & Carports",
         "defaultMetaDescription": "Garaport.de - Der Experte für $KATEGORIE. Bestellen Sie Garagen, Carports und Zubehör einfach günstig bei Garaport.de. Ihr Experte für $KATEGORIE.",
         "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow",
+                "texts": [{
+                        "title": "Title of a SEO Text for sporthosen",
+                        "text": "Text of a SEO Text for sporthosen"
+                    },
+                    {
+                        "title": "New title for sporthosen",
+                        "text": "new text for sporthosen"
+                    }
+                ]
             }
-        ]
+        }]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER | garaport.de",
         "defaultMetaDescription": "Garagen, Carports und Zubehör vom Hersteller $HERSTELLER finden Sie günstiger auf Garaport.de. Produkte auf Lager. Schnelle Lieferzeiten.",
         "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
+        "brands": [{
+            "key": "palm",
+            "name": "Palm",
+            "seo": {
+                "title": "Produkte von Palm günstig kaufen",
+                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
-    "navigationLinks": [
-        {
+    "navigationLinks": [{
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Garagen & Carports",
