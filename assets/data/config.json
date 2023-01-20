@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "garaport.de",
     "hostname": "https://www.garaport.de/",
-    "email": "garaport.de@surrealnetworks.io",
+    "email": "garaport.desurrealnetworks.io",
     "organization": "garaport.de",
     "logoText": "Garaport.de",
     "title": "Garagen & Carports",
-    "subline": "Der Online Shop für Garagen & Carports",
+    "subline": "Hohe Qualität und faire Preise",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -37,44 +37,36 @@
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
+    "checklist": "Material,Komfort,Funktion,Haltbarkeit",
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Garagen & Carports",
-        "featureText": "Das Sortiment von Garagen & Carports umfasst eine Vielzahl von Produkten, die für die Aufbewahrung und den Schutz von Fahrzeugen bestimmt sind. Das Angebot reicht von einfachen Carports über Garagen mit verschiedenen Ausstattungen bis hin zu komplexen Stellplatzlösungen.",
+        "featureText": "Wir heißen Sie herzlich willkommen auf unserem Online-Shop für Garagen & Carports. Gagaport.de ist ihr Online Fachhandel, bei dem Sie ausgewählte Garagen und Carports von renommierten Herstellern finden und günstig online bestellen können. Weiterhin finden Sie bei uns Zubehör wie Garagentorantriebe & Torantriebe. Wählen Sie ein Produkt von Garaport und wir garantieren Ihnen eine schnelle Lieferung und Zufriedenheit.",
         "index": {
             "title": "Garagen & Carports - die beste Auswahl!",
-            "metaDescription": "Willkommen bei Garagen & Carports - Ihrem Shop für hochwertige Garagen und Carports. Wir bieten Ihnen eine große Auswahl an verschiedenen Modellen und Größen.",
+            "metaDescription": "Garagen und Carports gibt es in vielen Ausführungen und Größen. Unsere Experten haben für Sie die beste Auswahl von Garagen und Carports aufgestellt.",
             "robots": "index, follow",
-            "seotext": {
-                "published": false,
-                "content": [
-                    {
-                        "title": "Garagen & Carports - die perfekte Lösung für Ihr Auto!",
-                        "text": "Die meisten Häuser in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter schützen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein überdachter Parkplatz für ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr nützlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter schützen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort für ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports schützen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
-                    }
-                ]
-            }
+            "texts": [
+                {
+                    "title": "Garagen & Carports - die perfekte Lösung für Ihr Auto!",
+                    "text": "Die meisten Häuser in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter schützen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein überdachter Parkplatz für ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr nützlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter schützen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort für ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports schützen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
+                }
+            ]
         },
         "shop": {
-            "title": "Garagen & Carports Shop",
-            "metaDescription": "Der offizielle Garagen- & Carports-Shop. Hier findest du alles, was du für die perfekte Garage oder Carport brauchst.",
+            "title": "Garagen und Carports vergünstigt kaufen | Shop",
+            "metaDescription": "Carports und Garagen sind eine hervorragende Möglichkeit, Ihr Fahrzeug vor der Witterung zu schützen. Erfahren Sie in unserem Shop mehr über Carports!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Garagen & Carports Hersteller",
-            "metaDescription": "Garagen & Carports - Find the perfect manufacturer for your needs. We have a wide selection of manufacturers to choose from.",
+            "title": "Alle Hersteller von Garagen & Carports | garaport.de",
+            "metaDescription": "Sie brauchen Hilfe bei der Auswahl Ihrer Garage oder des Carports? Hier finden Sie eine Auflistung aller renommierten Hersteller, damit auch nichts schiefgeht.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Garagen & Carports",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER und $KATEGORIE für Ihre Garage oder Carport. Wählen Sie aus unserem Sortiment und finden Sie die perfekte Lösung für Ihr Zuhause.",
+        "defaultTitle": "$PRODUKT | garaport.de",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER online kaufen vom Experten garaport.de. Finden Sie weitere Produkte aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -90,7 +82,7 @@
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE: Garagen & Carports",
-        "defaultMetaDescription": "$KATEGORIE Garagen & Carports - Finde die perfekte Garage für Dein Auto. Wähle aus unterschiedlichen Größen, Ausführungen und Designs.",
+        "defaultMetaDescription": "Garaport.de - Der Experte für $KATEGORIE. Bestellen Sie Garagen, Carports und Zubehör einfach günstig bei Garaport.de. Ihr Experte für $KATEGORIE.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +108,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Garagen und Carports - hochwertige Qualität zum fairen Preis. Jetzt online konfigurieren und bestellen!",
+        "defaultTitle": "$HERSTELLER | garaport.de",
+        "defaultMetaDescription": "Garagen, Carports und Zubehör vom Hersteller $HERSTELLER finden Sie günstiger auf Garaport.de. Produkte auf Lager. Schnelle Lieferzeiten.",
         "defaultRobots": "index, follow",
         "brands": [
             {
