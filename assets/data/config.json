@@ -53,10 +53,25 @@
             "robots": "index, follow",
             "seotext": {
                 "publish": true,
-                "content": [{
-                    "title": "Garagen & Carports - die perfekte Lösung für Ihr Auto!",
-                    "text": "Die meisten Häuser in Deutschland haben eine Garage. Die Garage ist ein Ort, an dem man sein Auto parken und es vor Wind und Wetter schützen kann. Einige Leute haben auch einen Carport. Ein Carport ist ein überdachter Parkplatz für ein Auto. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage.\n\nEine Garage ist ein sehr nützlicher Ort. Man kann dort sein Auto parken und es vor Wind und Wetter schützen. Die Garage ist auch ein guter Ort, um Werkzeuge und andere Dinge zu lagern. Einige Leute benutzen ihre Garage auch als Werkstatt. In einer Garage kann man viele verschiedene Dinge tun.\n\nEin Carport ist ein guter Ort für ein Auto, aber es ist nicht so gut wie eine Garage. Carports sind meistens aus Metall oder Holz. Sie sind leicht zu bauen und kosten weniger als eine Garage. Carports schützen das Auto nicht so gut vor Wind und Wetter wie eine Garage."
-                }]
+                "content": [
+                    {
+                        "title": "Willkommen bei Garaport - Ihrem Online-Shop für Garagen und Carports",
+                        "text": "Garaport ist Ihr zuverlässiger Online-Shop für hochwertige Garagen- und Carportlösungen. Wir bieten Ihnen eine breite Auswahl an Produkten, darunter Garagentorantriebe und Zubehör für Carports. Unser Ziel ist es, Ihnen ein einfaches und angenehmes Einkaufserlebnis zu bieten, bei dem Sie sicher sein können, dass Sie das beste Produkt zu einem fairen Preis erhalten. Wir haben ein starkes Engagement für Kundenzufriedenheit und stellen sicher, dass alle unsere Produkte den höchsten Qualitätsstandards entsprechen. Stöbern Sie in unserem Sortiment und finden Sie das perfekte Garagen- oder Carport-System für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Garagentorantriebe & Torantriebe",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/garagentorantriebe-torantriebe/\" title=\"Garagentorantriebe & Torantriebe\">Garagentorantriebe & Torantriebe</a> bietet Ihnen eine breite Auswahl an Antrieben für Ihr Garagentor und Ihre Tore. Von manuellen Antrieben bis hin zu elektrischen Antrieben mit Funksteuerung finden Sie bei uns die perfekte Lösung für Ihre Bedürfnisse. Alle Antriebe sind hochwertig verarbeitet und garantieren eine zuverlässige Funktionalität. Entdecken Sie jetzt unsere große Auswahl an Garagentorantrieben & Torantrieben bei garaport.de."
+                    },
+                    {
+                        "title": "Carports",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/carports/\" title=\"Carports\">Carports</a> finden Sie eine große Auswahl an Carports in verschiedenen Größen und Designs. Ob Sie ein Carport für ein oder mehrere Autos benötigen, bei uns werden Sie fündig. Unsere Carports sind aus hochwertigen Materialien gefertigt und bieten optimalen Schutz für Ihr Auto vor Witterungseinflüssen. Entdecken Sie jetzt unsere große Auswahl an Carports bei garaport.de."
+                    },
+                    {
+                        "title": "Zubehör für Carports",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/zubehoer-fuer-carports/\" title=\"Zubehör für Carports\">Zubehör für Carports</a> finden Sie alles, was Sie für den perfekten Schutz Ihres Autos benötigen. Von Seiten- und Rückwänden bis hin zu Regenrinnen und Abschlüssen, bei uns finden Sie alles, was Sie für den optimalen Schutz Ihres Autos benötigen. Entdecken Sie jetzt unser breites Sortiment an Zubehör für Carports bei garaport.de."
+                    }
+                ],
+                "published": true
             }
         },
         "shop": {
@@ -74,55 +89,63 @@
         "defaultTitle": "$PRODUKT | garaport.de",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER online kaufen vom Experten garaport.de. Finden Sie weitere Produkte aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE: Garagen & Carports",
         "defaultMetaDescription": "Garaport.de - Der Experte für $KATEGORIE. Bestellen Sie Garagen, Carports und Zubehör einfach günstig bei Garaport.de. Ihr Experte für $KATEGORIE.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER | garaport.de",
         "defaultMetaDescription": "Garagen, Carports und Zubehör vom Hersteller $HERSTELLER finden Sie günstiger auf Garaport.de. Produkte auf Lager. Schnelle Lieferzeiten.",
         "defaultRobots": "index, follow",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Garagen & Carports",
