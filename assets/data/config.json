@@ -1,177 +1,180 @@
 {
-    "configIsReady": true,
-    "domain": "garaport.de",
-    "hostname": "https://www.garaport.de/",
-    "email": "garaport.desurrealnetworks.io",
-    "organization": "garaport.de",
-    "logoText": "Garaport.de",
-    "title": "Garagen & Carports",
-    "subline": "Hohe Qualität und faire Preise",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "7899206",
-        "8017634",
-        "2122653",
-        "2114866",
-        "2113207",
-        "3511482"
-    ],
-    "winnerProducts": [
-        "9630989",
-        "3514163",
-        "2113207"
-    ],
-    "featuredCategories": [
-        "Zubehör für Carports",
-        "Garagentorantriebe & Torantriebe",
-        "Carports",
-        "Garagentorantriebe & Torantriebe",
-        "Carports",
-        "Zubehör für Carports"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Garagen & Carports",
-        "featureText": "Wir heißen Sie herzlich willkommen auf unserem Online-Shop für Garagen & Carports. Gagaport.de ist ihr Online Fachhandel, bei dem Sie ausgewählte Garagen und Carports von renommierten Herstellern finden und günstig online bestellen können. Weiterhin finden Sie bei uns Zubehör wie Garagentorantriebe & Torantriebe. Wählen Sie ein Produkt von Garaport und wir garantieren Ihnen eine schnelle Lieferung und Zufriedenheit.",
-        "index": {
-            "title": "Garagen & Carports - die beste Auswahl!",
-            "metaDescription": "Garagen und Carports gibt es in vielen Ausführungen und Größen. Unsere Experten haben für Sie die beste Auswahl von Garagen und Carports aufgestellt.",
-            "robots": "index, follow",
-            "seotext": {
-                "publish": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Garaport - Ihrem Online-Shop für Garagen und Carports",
-                        "text": "Garaport ist Ihr zuverlässiger Online-Shop für hochwertige Garagen- und Carportlösungen. Wir bieten Ihnen eine breite Auswahl an Produkten, darunter Garagentorantriebe und Zubehör für Carports. Unser Ziel ist es, Ihnen ein einfaches und angenehmes Einkaufserlebnis zu bieten, bei dem Sie sicher sein können, dass Sie das beste Produkt zu einem fairen Preis erhalten. Wir haben ein starkes Engagement für Kundenzufriedenheit und stellen sicher, dass alle unsere Produkte den höchsten Qualitätsstandards entsprechen. Stöbern Sie in unserem Sortiment und finden Sie das perfekte Garagen- oder Carport-System für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Garagentorantriebe & Torantriebe",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/garagentorantriebe-torantriebe/\" title=\"Garagentorantriebe & Torantriebe\">Garagentorantriebe & Torantriebe</a> bietet Ihnen eine breite Auswahl an Antrieben für Ihr Garagentor und Ihre Tore. Von manuellen Antrieben bis hin zu elektrischen Antrieben mit Funksteuerung finden Sie bei uns die perfekte Lösung für Ihre Bedürfnisse. Alle Antriebe sind hochwertig verarbeitet und garantieren eine zuverlässige Funktionalität. Entdecken Sie jetzt unsere große Auswahl an Garagentorantrieben & Torantrieben bei garaport.de."
-                    },
-                    {
-                        "title": "Carports",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/carports/\" title=\"Carports\">Carports</a> finden Sie eine große Auswahl an Carports in verschiedenen Größen und Designs. Ob Sie ein Carport für ein oder mehrere Autos benötigen, bei uns werden Sie fündig. Unsere Carports sind aus hochwertigen Materialien gefertigt und bieten optimalen Schutz für Ihr Auto vor Witterungseinflüssen. Entdecken Sie jetzt unsere große Auswahl an Carports bei garaport.de."
-                    },
-                    {
-                        "title": "Zubehör für Carports",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/zubehoer-fuer-carports/\" title=\"Zubehör für Carports\">Zubehör für Carports</a> finden Sie alles, was Sie für den perfekten Schutz Ihres Autos benötigen. Von Seiten- und Rückwänden bis hin zu Regenrinnen und Abschlüssen, bei uns finden Sie alles, was Sie für den optimalen Schutz Ihres Autos benötigen. Entdecken Sie jetzt unser breites Sortiment an Zubehör für Carports bei garaport.de."
-                    }
-                ],
-                "published": true
-            }
-        },
-        "shop": {
-            "title": "Garagen und Carports vergünstigt kaufen | Shop",
-            "metaDescription": "Carports und Garagen sind eine hervorragende Möglichkeit, Ihr Fahrzeug vor der Witterung zu schützen. Erfahren Sie in unserem Shop mehr über Carports!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Alle Hersteller von Garagen & Carports | garaport.de",
-            "metaDescription": "Sie brauchen Hilfe bei der Auswahl Ihrer Garage oder des Carports? Hier finden Sie eine Auflistung aller renommierten Hersteller, damit auch nichts schiefgeht.",
-            "robots": "index, follow"
-        }
+  "configIsReady": true,
+  "domain": "garaport.de",
+  "hostname": "https://www.garaport.de/",
+  "email": "garaport.desurrealnetworks.io",
+  "organization": "garaport.de",
+  "logoText": "Garaport.de",
+  "title": "Garagen & Carports",
+  "subline": "Hohe Qualit\u00e4t und faire Preise",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "7899206",
+    "8017634",
+    "2122653",
+    "2114866",
+    "2113207",
+    "3511482"
+  ],
+  "winnerProducts": [
+    "9630989",
+    "3514163",
+    "2113207"
+  ],
+  "featuredCategories": [
+    "Zubeh\u00f6r f\u00fcr Carports",
+    "Garagentorantriebe & Torantriebe",
+    "Carports",
+    "Garagentorantriebe & Torantriebe",
+    "Carports",
+    "Zubeh\u00f6r f\u00fcr Carports"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Garagen & Carports",
+    "featureText": "Wir hei\u00dfen Sie herzlich willkommen auf unserem Online-Shop f\u00fcr Garagen & Carports. Gagaport.de ist ihr Online Fachhandel, bei dem Sie ausgew\u00e4hlte Garagen und Carports von renommierten Herstellern finden und g\u00fcnstig online bestellen k\u00f6nnen. Weiterhin finden Sie bei uns Zubeh\u00f6r wie Garagentorantriebe & Torantriebe. W\u00e4hlen Sie ein Produkt von Garaport und wir garantieren Ihnen eine schnelle Lieferung und Zufriedenheit.",
+    "index": {
+      "title": "Garagen & Carports - die beste Auswahl!",
+      "metaDescription": "Garagen und Carports gibt es in vielen Ausf\u00fchrungen und Gr\u00f6\u00dfen. Unsere Experten haben f\u00fcr Sie die beste Auswahl von Garagen und Carports aufgestellt.",
+      "robots": "index, follow",
+      "seotext": {
+        "publish": true,
+        "content": [
+          {
+            "title": "Willkommen bei Garaport - Ihrem Online-Shop f\u00fcr Garagen und Carports",
+            "text": "Garaport ist Ihr zuverl\u00e4ssiger Online-Shop f\u00fcr hochwertige Garagen- und Carportl\u00f6sungen. Wir bieten Ihnen eine breite Auswahl an Produkten, darunter Garagentorantriebe und Zubeh\u00f6r f\u00fcr Carports. Unser Ziel ist es, Ihnen ein einfaches und angenehmes Einkaufserlebnis zu bieten, bei dem Sie sicher sein k\u00f6nnen, dass Sie das beste Produkt zu einem fairen Preis erhalten. Wir haben ein starkes Engagement f\u00fcr Kundenzufriedenheit und stellen sicher, dass alle unsere Produkte den h\u00f6chsten Qualit\u00e4tsstandards entsprechen. St\u00f6bern Sie in unserem Sortiment und finden Sie das perfekte Garagen- oder Carport-System f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Garagentorantriebe & Torantriebe",
+            "text": "Unsere Kategorie <a href=\"/kategorie/garagentorantriebe-torantriebe/\" title=\"Garagentorantriebe & Torantriebe\">Garagentorantriebe & Torantriebe</a> bietet Ihnen eine breite Auswahl an Antrieben f\u00fcr Ihr Garagentor und Ihre Tore. Von manuellen Antrieben bis hin zu elektrischen Antrieben mit Funksteuerung finden Sie bei uns die perfekte L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse. Alle Antriebe sind hochwertig verarbeitet und garantieren eine zuverl\u00e4ssige Funktionalit\u00e4t. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Garagentorantrieben & Torantrieben bei garaport.de."
+          },
+          {
+            "title": "Carports",
+            "text": "In unserer Kategorie <a href=\"/kategorie/carports/\" title=\"Carports\">Carports</a> finden Sie eine gro\u00dfe Auswahl an Carports in verschiedenen Gr\u00f6\u00dfen und Designs. Ob Sie ein Carport f\u00fcr ein oder mehrere Autos ben\u00f6tigen, bei uns werden Sie f\u00fcndig. Unsere Carports sind aus hochwertigen Materialien gefertigt und bieten optimalen Schutz f\u00fcr Ihr Auto vor Witterungseinfl\u00fcssen. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Carports bei garaport.de."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Carports",
+            "text": "In unserer Kategorie <a href=\"/kategorie/zubehoer-fuer-carports/\" title=\"Zubeh\u00f6r f\u00fcr Carports\">Zubeh\u00f6r f\u00fcr Carports</a> finden Sie alles, was Sie f\u00fcr den perfekten Schutz Ihres Autos ben\u00f6tigen. Von Seiten- und R\u00fcckw\u00e4nden bis hin zu Regenrinnen und Abschl\u00fcssen, bei uns finden Sie alles, was Sie f\u00fcr den optimalen Schutz Ihres Autos ben\u00f6tigen. Entdecken Sie jetzt unser breites Sortiment an Zubeh\u00f6r f\u00fcr Carports bei garaport.de."
+          }
+        ],
+        "published": true
+      }
     },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | garaport.de",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER online kaufen vom Experten garaport.de. Finden Sie weitere Produkte aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
+    "shop": {
+      "title": "Garagen und Carports verg\u00fcnstigt kaufen | Shop",
+      "metaDescription": "Carports und Garagen sind eine hervorragende M\u00f6glichkeit, Ihr Fahrzeug vor der Witterung zu sch\u00fctzen. Erfahren Sie in unserem Shop mehr \u00fcber Carports!",
+      "robots": "index, follow"
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Garagen & Carports",
-        "defaultMetaDescription": "Garaport.de - Der Experte für $KATEGORIE. Bestellen Sie Garagen, Carports und Zubehör einfach günstig bei Garaport.de. Ihr Experte für $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
-    },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | garaport.de",
-        "defaultMetaDescription": "Garagen, Carports und Zubehör vom Hersteller $HERSTELLER finden Sie günstiger auf Garaport.de. Produkte auf Lager. Schnelle Lieferzeiten.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Garagen & Carports",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Garagen & Carports Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Garagen & Carports Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Alle Hersteller von Garagen & Carports | garaport.de",
+      "metaDescription": "Sie brauchen Hilfe bei der Auswahl Ihrer Garage oder des Carports? Hier finden Sie eine Auflistung aller renommierten Hersteller, damit auch nichts schiefgeht.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | garaport.de",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER online kaufen vom Experten garaport.de. Finden Sie weitere Produkte aus der Kategorie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE: Garagen & Carports",
+    "defaultMetaDescription": "Garaport.de - Der Experte f\u00fcr $KATEGORIE. Bestellen Sie Garagen, Carports und Zubeh\u00f6r einfach g\u00fcnstig bei Garaport.de. Ihr Experte f\u00fcr $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | garaport.de",
+    "defaultMetaDescription": "Garagen, Carports und Zubeh\u00f6r vom Hersteller $HERSTELLER finden Sie g\u00fcnstiger auf Garaport.de. Produkte auf Lager. Schnelle Lieferzeiten.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Garagen & Carports",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Garagen & Carports Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Garagen & Carports Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
